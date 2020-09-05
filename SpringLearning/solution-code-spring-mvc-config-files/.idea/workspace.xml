@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56855d3a-ce40-4fd7-90bb-9b15aaa8617f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Spring_Basic/annoInjection/src/main/java/com/springdemo/CUSTOMCoachService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Basic/annoInjection/src/main/java/com/springdemo/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Basic/annoInjection/src/main/java/com/springdemo/CoachServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Basic/annoInjection/src/main/java/com/springdemo/GameCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Basic/annoInjection/src/main/java/com/springdemo/HappyCoachService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Basic/annoInjection/src/main/java/com/springdemo/JavaConfigDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Basic/annoInjection/src/main/java/com/springdemo/SadCoachService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Basic/annoInjection/src/main/java/com/springdemo/SadCoachService2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Basic/annoInjection/src/main/java/com/springdemo/SportConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Basic/annoInjection/src/main/java/com/springdemo/SwimCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Basic/annoInjection/src/main/java/com/springdemo/annoDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Basic/annoInjection/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Basic/springBasic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Basic/springBasic/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Basic/springBasic/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Basic/springBasic/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Basic/springBasic/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Basic/springBasic/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Basic/springBasic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Basic/springBasic/src/main/java/com/example/springBasic/SpringBasicApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Basic/springBasic/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Basic/springBasic/src/test/java/com/example/springBasic/SpringBasicApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1d4AXeDKKOSiolEDfAYESIw5YGR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56855d3a-ce40-4fd7-90bb-9b15aaa8617f" name="Default Changelist" comment="" />
+      <created>1591674032789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591674032789</updated>
+    </task>
+    <servers />
+  </component>
+</project>
